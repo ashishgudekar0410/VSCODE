@@ -3,7 +3,7 @@
     var toastEvent = $A.get("e.force:showToast");
     toastEvent.setParams({
         "title": "Success!",
-        "message": "The record has been updated successfully.Test3"
+        "message": "The record has been updated successfully.Test8"
     });
     toastEvent.fire();
 }
